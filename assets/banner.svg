@@ -31,7 +31,7 @@
   <!-- cuerpo del ticket -->
   <text class="mono" x="84" y="104" font-size="15" font-weight="700" letter-spacing="4" fill="#1565C0">TURNO · DESARROLLO DE SOFTWARE</text>
   <text class="sans" x="80" y="196" font-size="104" font-weight="800" letter-spacing="2" fill="#0E1726">JAO</text>
-  <text class="mono" x="84" y="238" font-size="22" fill="#4A5A70">Android · Web · Escritorio<tspan fill="#9AA7B8" dx="18">/</tspan><tspan dx="18">@jortegadmr</tspan></text>
+  <text class="mono" x="84" y="238" font-size="22" fill="#4A5A70">Android · Web · Escritorio<tspan fill="#9AA7B8" dx="18">/</tspan><tspan dx="18">@jao</tspan></text>
 
   <!-- matriz -->
   <text class="mono" x="1000" y="104" font-size="15" font-weight="700" letter-spacing="4" fill="#6B7A90">TURNO Nº</text>
