@@ -25,7 +25,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>Lottex</h3>
-      <p>Análisis histórico local de Euromillones y EuroJack. App de escritorio sin conexión ni servidor.</p>
+      <p>Análisis histórico local. App de escritorio sin conexión ni servidor.</p>
       <img alt="Electron" src="https://img.shields.io/badge/Electron-1565C0?style=flat-square&logo=electron&logoColor=white">
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1565C0?style=flat-square&logo=typescript&logoColor=white">
       <img alt="React" src="https://img.shields.io/badge/React-1565C0?style=flat-square&logo=react&logoColor=white">
