@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t d">
+  <title id="t">JAO</title>
+  <desc id="d">JAO, desarrollador de software: Android, web y escritorio. Turno número 001.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#6FA8FF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <style>
+      .sans { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+      .mono { font-family: ui-monospace, "Cascadia Mono", "SF Mono", Consolas, Menlo, monospace; }
+      .pulse { animation: pulse 1.8s ease-in-out infinite; transform-origin: 1004px 231px; }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; transform: scale(1); }
+        50% { opacity: 0.35; transform: scale(0.7); }
+      }
+      @media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
+    </style>
+  </defs>
+
+  <!-- fondo -->
+  <rect width="1280" height="320" fill="#0E1726"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+
+  <!-- ticket -->
+  <rect x="40" y="50" width="1200" height="220" rx="14" fill="#EEF1F6"/>
+  <!-- muescas de la perforación -->
+  <circle cx="960" cy="50" r="15" fill="#0E1726"/>
+  <circle cx="960" cy="270" r="15" fill="#0E1726"/>
+  <line x1="960" y1="72" x2="960" y2="248" stroke="#6B7A90" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/>
+
+  <!-- cuerpo del ticket -->
+  <text class="mono" x="84" y="104" font-size="15" font-weight="700" letter-spacing="4" fill="#1565C0">TURNO · DESARROLLO DE SOFTWARE</text>
+  <text class="sans" x="80" y="196" font-size="104" font-weight="800" letter-spacing="2" fill="#0E1726">JAO</text>
+  <text class="mono" x="84" y="238" font-size="22" fill="#4A5A70">Android · Web · Escritorio<tspan fill="#9AA7B8" dx="18">/</tspan><tspan dx="18">@jortegadmr</tspan></text>
+
+  <!-- matriz -->
+  <text class="mono" x="1000" y="104" font-size="15" font-weight="700" letter-spacing="4" fill="#6B7A90">TURNO Nº</text>
+  <text class="mono" x="996" y="190" font-size="78" font-weight="700" fill="#1565C0">001</text>
+  <circle class="pulse" cx="1004" cy="231" r="6" fill="#FFB020"/>
+  <text class="mono" x="1020" y="237" font-size="15" font-weight="700" letter-spacing="3" fill="#0E1726">ATENDIENDO</text>
+</svg>
