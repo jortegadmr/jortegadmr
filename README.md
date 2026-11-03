@@ -50,11 +50,10 @@ Outside work I build complete products, end to end.
       <img alt="Hilt" src="https://img.shields.io/badge/Hilt-1565C0?style=flat-square&logo=android&logoColor=white">
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jortegadmr/islantilla">Islantilla</a></h3>
-      <p>Resort management web app: rooms, activities and bookings.</p>
-      <img alt="Symfony" src="https://img.shields.io/badge/Symfony%207-1565C0?style=flat-square&logo=symfony&logoColor=white">
-      <img alt="Doctrine" src="https://img.shields.io/badge/Doctrine-1565C0?style=flat-square&logo=php&logoColor=white">
-      <img alt="Twig" src="https://img.shields.io/badge/Twig-1565C0?style=flat-square&logo=symfony&logoColor=white">
+      <h3><a href="https://github.com/jortegadmr/Atelier">Atelier</a></h3>
+      <p>Desktop app for Windows and macOS to develop scripts and story ideas for a TV series.</p>
+      <img alt="Svelte" src="https://img.shields.io/badge/Svelte-1565C0?style=flat-square&logo=svelte&logoColor=white">
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1565C0?style=flat-square&logo=typescript&logoColor=white">
     </td>
   </tr>
 </table>
