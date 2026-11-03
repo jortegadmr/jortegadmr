@@ -1,23 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 355" width="480" height="355" role="img" aria-label="Role: Full Stack Developer. Now: authorization platform for a regional public administration. Stack: Java, Spring Boot, Angular. Builds: web, Android and desktop apps.">
   <title>Quick facts</title>
   <defs>
-    <mask id="cut"><rect width="480" height="355" fill="#fff"/></mask>
+    <mask id="cut"><rect width="480" height="355" rx="14" fill="#fff"/></mask>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1565C0" stop-opacity="0.35"/><stop offset="0.7" stop-color="#1565C0" stop-opacity="0"/></linearGradient>
     <style>
       .m { font-family: ui-monospace, SFMono-Regular, "Cascadia Mono", Menlo, Consolas, monospace; }
       .s { font-family: system-ui, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
     </style>
   </defs>
-  <rect width="480" height="355" rx="14" fill="#0E1726"/>
+  <g mask="url(#cut)"><rect width="480" height="355" fill="#0B1220"/><rect width="480" height="355" fill="url(#g)"/></g>
+  <line x1="28" y1="83" x2="452" y2="83" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/><line x1="28" y1="187" x2="452" y2="187" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/><line x1="28" y1="266" x2="452" y2="266" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/>
   <text class="m" x="36" y="36" font-size="12" font-weight="700" letter-spacing="3" fill="#6FA8FF">ROLE</text>
-  <text class="s" x="36" y="63" font-size="22" font-weight="700" fill="#F4F7FB">Full Stack Developer</text>
+  <text class="s" x="36" y="63" font-size="22" font-weight="700" fill="#F2F7FF">Full Stack Developer</text>
   <text class="m" x="36" y="115" font-size="12" font-weight="700" letter-spacing="3" fill="#6FA8FF">NOW</text>
-  <text class="s" x="36" y="142" font-size="22" font-weight="700" fill="#F4F7FB">Authorization platform for</text>
-  <text class="s" x="36" y="167" font-size="22" font-weight="700" fill="#F4F7FB">a regional public administration</text>
+  <text class="s" x="36" y="142" font-size="22" font-weight="700" fill="#F2F7FF">Authorization platform for</text>
+  <text class="s" x="36" y="167" font-size="22" font-weight="700" fill="#F2F7FF">a regional public administration</text>
   <text class="m" x="36" y="219" font-size="12" font-weight="700" letter-spacing="3" fill="#6FA8FF">STACK</text>
-  <text class="s" x="36" y="246" font-size="22" font-weight="700" fill="#F4F7FB">Java · Spring Boot · Angular</text>
+  <text class="s" x="36" y="246" font-size="22" font-weight="700" fill="#F2F7FF">Java · Spring Boot · Angular</text>
   <text class="m" x="36" y="298" font-size="12" font-weight="700" letter-spacing="3" fill="#6FA8FF">BUILDS</text>
-  <text class="s" x="36" y="325" font-size="22" font-weight="700" fill="#F4F7FB">Web, Android and desktop apps</text>
-  <line x1="28" y1="83" x2="452" y2="83" stroke="#5C6F8C" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/>
-  <line x1="28" y1="187" x2="452" y2="187" stroke="#5C6F8C" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/>
-  <line x1="28" y1="266" x2="452" y2="266" stroke="#5C6F8C" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/>
+  <text class="s" x="36" y="325" font-size="22" font-weight="700" fill="#F2F7FF">Web, Android and desktop apps</text>
 </svg>

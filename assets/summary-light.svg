@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 236" width="960" height="236" role="img" aria-label="Role: Full Stack Developer. Now: authorization platform for a regional public administration. Stack: Java, Spring Boot, Angular. Builds: web, Android and desktop apps.">
   <title>Quick facts</title>
   <defs>
-    <mask id="cut"><rect width="960" height="236" fill="#fff"/><circle cx="480" cy="0" r="11" fill="#000"/><circle cx="480" cy="236" r="11" fill="#000"/><circle cx="0" cy="118" r="11" fill="#000"/><circle cx="960" cy="118" r="11" fill="#000"/></mask>
+    <mask id="cut"><rect width="960" height="236" rx="14" fill="#fff"/><circle cx="480" cy="0" r="11" fill="#000"/><circle cx="480" cy="236" r="11" fill="#000"/><circle cx="0" cy="118" r="11" fill="#000"/><circle cx="960" cy="118" r="11" fill="#000"/></mask>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1565C0" stop-opacity="0.35"/><stop offset="0.7" stop-color="#1565C0" stop-opacity="0"/></linearGradient>
     <style>
       .m { font-family: ui-monospace, SFMono-Regular, "Cascadia Mono", Menlo, Consolas, monospace; }
       .s { font-family: system-ui, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
     </style>
   </defs>
-  <rect width="960" height="236" rx="14" fill="#0E1726" mask="url(#cut)"/>
-  <line x1="480" y1="26" x2="480" y2="210" stroke="#5C6F8C" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/>
-  <line x1="30" y1="118" x2="930" y2="118" stroke="#5C6F8C" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/>
+  <g mask="url(#cut)"><rect width="960" height="236" fill="#0B1220"/><rect width="960" height="236" fill="url(#g)"/></g>
+  <line x1="480" y1="26" x2="480" y2="210" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/><line x1="30" y1="118" x2="930" y2="118" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/>
   <text class="m" x="44" y="44" font-size="13" font-weight="700" letter-spacing="3.5" fill="#6FA8FF">ROLE</text>
-  <text class="s" x="44" y="76" font-size="25" font-weight="700" fill="#F4F7FB">Full Stack Developer</text>
+  <text class="s" x="44" y="76" font-size="25" font-weight="700" fill="#F2F7FF">Full Stack Developer</text>
   <text class="m" x="508" y="44" font-size="13" font-weight="700" letter-spacing="3.5" fill="#6FA8FF">NOW</text>
-  <text class="s" x="508" y="76" font-size="25" font-weight="700" fill="#F4F7FB">Authorization platform for</text>
-  <text class="s" x="508" y="104" font-size="25" font-weight="700" fill="#F4F7FB">a regional public administration</text>
+  <text class="s" x="508" y="76" font-size="25" font-weight="700" fill="#F2F7FF">Authorization platform for</text>
+  <text class="s" x="508" y="104" font-size="25" font-weight="700" fill="#F2F7FF">a regional public administration</text>
   <text class="m" x="44" y="160" font-size="13" font-weight="700" letter-spacing="3.5" fill="#6FA8FF">STACK</text>
-  <text class="s" x="44" y="192" font-size="25" font-weight="700" fill="#F4F7FB">Java · Spring Boot · Angular</text>
+  <text class="s" x="44" y="192" font-size="25" font-weight="700" fill="#F2F7FF">Java · Spring Boot · Angular</text>
   <text class="m" x="508" y="160" font-size="13" font-weight="700" letter-spacing="3.5" fill="#6FA8FF">BUILDS</text>
-  <text class="s" x="508" y="192" font-size="25" font-weight="700" fill="#F4F7FB">Web, Android and desktop apps</text>
+  <text class="s" x="508" y="192" font-size="25" font-weight="700" fill="#F2F7FF">Web, Android and desktop apps</text>
 </svg>

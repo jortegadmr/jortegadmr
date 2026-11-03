@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 60" width="480" height="60" role="img" aria-label="Six live demos: Sandsong, Hypha, Murmura, Noctiflora, Mandalux, Epichord.">
+  <title>Creative web lab projects</title>
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000"/><stop offset="0.05" stop-color="#fff"/><stop offset="0.95" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
+    <mask id="edge"><rect width="480" height="60" fill="url(#fade)"/></mask>
+    <style>
+      .m { font-family: ui-monospace, SFMono-Regular, "Cascadia Mono", Menlo, Consolas, monospace; }
+      .s { font-family: system-ui, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+      .run { animation: run 95s linear infinite; }
+      @keyframes run { to { transform: translateX(-1332px); } }
+      @media (prefers-reduced-motion: reduce) { .run { animation: none; } }
+    </style>
+  </defs>
+  <g mask="url(#edge)"><g class="run">
+      <g transform="translate(0 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Sandsong</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Sand</text>
+      </g><g transform="translate(222 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Hypha</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Slime mould</text>
+      </g><g transform="translate(444 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Murmura</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Starlings</text>
+      </g><g transform="translate(666 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Noctiflora</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Garden</text>
+      </g><g transform="translate(888 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Mandalux</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Light</text>
+      </g><g transform="translate(1110 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Epichord</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Orbits</text>
+      </g><g transform="translate(1332 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Sandsong</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Sand</text>
+      </g><g transform="translate(1554 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Hypha</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Slime mould</text>
+      </g><g transform="translate(1776 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Murmura</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Starlings</text>
+      </g><g transform="translate(1998 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Noctiflora</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Garden</text>
+      </g><g transform="translate(2220 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Mandalux</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Light</text>
+      </g><g transform="translate(2442 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Epichord</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Orbits</text>
+      </g><g transform="translate(2664 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Sandsong</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Sand</text>
+      </g><g transform="translate(2886 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Hypha</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Slime mould</text>
+      </g><g transform="translate(3108 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Murmura</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Starlings</text>
+      </g><g transform="translate(3330 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Noctiflora</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Garden</text>
+      </g><g transform="translate(3552 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Mandalux</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Light</text>
+      </g><g transform="translate(3774 0)">
+        <rect x="1" y="3" width="206" height="54" rx="9" fill="#0F1830" stroke="#2A3E63" stroke-width="1.5"/>
+        <line x1="44" y1="13" x2="44" y2="47" stroke="#8FA6C8" stroke-width="2" stroke-dasharray="3 6" stroke-linecap="round"/>
+        <circle cx="22" cy="30.0" r="5" fill="#FFB020"/>
+        <text class="s" x="60" y="29" font-size="19" font-weight="800" fill="#F2F7FF">Epichord</text>
+        <text class="m" x="61" y="46" font-size="12" font-weight="700" letter-spacing="1.5" fill="#4FE3C1">Orbits</text>
+      </g>
+  </g></g>
+</svg>
