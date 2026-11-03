@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="José Ortega Durán, Full Stack Developer: Java, Spring Boot and Angular" width="100%">
+  <img src="assets/banner.svg" alt="JAO, Full Stack Developer: Java, Spring Boot and Angular" width="100%">
 </div>
 
 <br>
