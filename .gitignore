@@ -1,0 +1,13 @@
+.ai-notes/
+.claude/
+.agent/
+.agents/
+.cursor/
+.superpowers/
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+.env*
+node_modules/
+dist/
+*.log
