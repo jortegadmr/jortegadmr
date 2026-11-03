@@ -52,6 +52,7 @@ Outside work I build complete products, end to end.
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jortegadmr/Atelier">Atelier</a></h3>
       <p>Desktop app for Windows and macOS to develop scripts and story ideas for a TV series.</p>
+      <img alt="Tauri" src="https://img.shields.io/badge/Tauri-1565C0?style=flat-square&logo=tauri&logoColor=white">
       <img alt="Svelte" src="https://img.shields.io/badge/Svelte-1565C0?style=flat-square&logo=svelte&logoColor=white">
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1565C0?style=flat-square&logo=typescript&logoColor=white">
     </td>
