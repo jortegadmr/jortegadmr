@@ -9,10 +9,6 @@
   Product-minded: I care as much about why a feature exists as about how it's built.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ortega-duran-jose-perfil"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-1565C0?style=flat-square&logo=linkedin&logoColor=white"></a>
-</p>
-
 <br>
 
 ## What I work on
