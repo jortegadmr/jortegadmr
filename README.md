@@ -50,7 +50,7 @@ Outside work I build complete products, end to end.
       <img alt="Hilt" src="https://img.shields.io/badge/Hilt-1565C0?style=flat-square&logo=android&logoColor=white">
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jortegadmr/Atelier">Atelier</a></h3>
+      <h3><a href="https://github.com/jortegadmr/Atelieer">Atelier</a></h3>
       <p>Desktop app for Windows and macOS to develop scripts and story ideas for a TV series.</p>
       <img alt="Tauri" src="https://img.shields.io/badge/Tauri-1565C0?style=flat-square&logo=tauri&logoColor=white">
       <img alt="Svelte" src="https://img.shields.io/badge/Svelte-1565C0?style=flat-square&logo=svelte&logoColor=white">
