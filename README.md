@@ -51,7 +51,7 @@ Outside work I build complete products, end to end.
       <img alt="Hilt" src="https://img.shields.io/badge/Hilt-1565C0?style=flat-square&logo=android&logoColor=white">
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://queuequest-a1303.web.app">QueueQuest ↗</a></h3>
+      <h3><a href="https://github.com/jortegadmr/queue-quest">QueueQuest</a></h3>
       <p>Queue and booking app with a gamified layer: scan a QR code, see your position in real time and play while you wait. <a href="https://queuequest-a1303.web.app">Try the live demo</a>.</p>
       <img alt="Flutter" src="https://img.shields.io/badge/Flutter-1565C0?style=flat-square&logo=flutter&logoColor=white">
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase-1565C0?style=flat-square&logo=firebase&logoColor=white">
